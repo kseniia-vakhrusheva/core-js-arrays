@@ -555,7 +555,7 @@ function propagateItemsByPositionIndex(arr) {
  * @param {number} n - The number of positions to shift the array elements.
  * @return {array} - The shifted array.
  *
- * 
+ *
  * @example
  *    shiftArray([1, 2, 3, 4, 5], 2) => [4, 5, 1, 2, 3]
  *    shiftArray(['a', 'b', 'c', 'd'], -1) => ['b', 'c', 'd', 'a']
